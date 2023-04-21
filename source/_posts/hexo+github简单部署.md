@@ -1,8 +1,7 @@
 ---
 title: hexo+github简单部署
-tags: Blog
-categories: 经验
-excerpt: hexo+github的简单部署
+tags: github
+categories: 学习
 date: 2022-06-02 10:02:20
 ---
 
@@ -24,6 +23,8 @@ date: 2022-06-02 10:02:20
 
 - 安装hexo
 
+  hexo官网：https://hexo.io/zh-cn/docs/
+
 ```
 node -v //查看是否安装node
 
@@ -36,17 +37,28 @@ sudo npm install hexo-cli
 
 ## 第二步：配置Hexo
 
-
-
-```
-命令：
-
-```
+根据自己需求配置_config.yml
 
 
 
 ## 第三步：编写博文
+```
+title（标题）
+tags（标签）：经验、js语法糖、网络、浏览器、github、杂文笔记、随笔、mac、工具随记、css、vue、webGL...
+categories（分类）
+excerpt（摘录、摘要）
+```
 
 
 
-451335091
+## 第四步：总结-命令
+```
+sudo hexo clean // 清除缓存
+sudo hexo g // 生成静态文件
+sudo hexo s // 启动本地服务
+sudo hexo d // 发布
+hexo new page // 新增文件夹
+```
+
+
+

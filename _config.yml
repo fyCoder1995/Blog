@@ -7,7 +7,7 @@ title: 定风波
 subtitle: '谁怕？一蓑烟雨任平生'
 description: ''
 keywords:
-author: 怡心
+author: 闲人
 language: zh-CN
 timezone: ''
 
@@ -42,7 +42,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -113,4 +113,3 @@ theme: fluid
 deploy:
   type: 'git'
   repo: git@github.com:Iamanuan/Iamanuan.github.io.git
-  branch: m1Push
