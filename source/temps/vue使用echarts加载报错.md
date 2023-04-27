@@ -5,7 +5,7 @@ tags: vue
 excerpt: TypeError:Cannot read property getAttribute of null？
 ---
 
-# vue 使用echarts 加载报错 TypeError: Cannot read property getAttribute of null？
+#### vue 使用echarts 加载报错 TypeError: Cannot read property getAttribute of null？
 
 
 
