@@ -12,6 +12,9 @@ code . // 用vscode打开 需要事先设置vscode
 brew outdated //查看旧版本
 brew upgrade //更新过时版本
 
+// nvm 命令
+ nvm alias default v14 //设置默认版本
+
 ```
 
 ### 2、基本语法
