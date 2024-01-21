@@ -1,7 +1,7 @@
 ---
 title: markdown语法使用基础标签
 tags: 经验
-categories: 工作
+categories: 技术积累
 excerpt: 关于markdown语法使用基础标签
 date: 2021-07-15 14:08:38
 ---

@@ -7,13 +7,13 @@ title: 定风波
 subtitle: '谁怕？一蓑烟雨任平生'
 description: ''
 keywords:
-author: 闲人
+author: 范怡
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://iamanuan.github.io
+url: https://fyCoder1995.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ plugin:
 - hexo-generator-feed
 feed:
   type: atom
-  path: https://iamanuan.github.io/atom.xml
+  path: https://fyCoder1995.github.io/atom.xml
   limit: 20
 ## Themes: https://hexo.io/themes/
 theme: fluid
@@ -112,4 +112,4 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:Iamanuan/Iamanuan.github.io.git
+  repo: git@github.com:FyCoder1995/FyCoder1995.github.io.git

@@ -1,7 +1,7 @@
 ---
 title: js语法糖
-tags: 经验
-categories: 工作
+tags: 语法糖
+categories: 技术积累
 excerpt: 关于js语法糖
 date: 2021-07-13 17:00:55
 ---

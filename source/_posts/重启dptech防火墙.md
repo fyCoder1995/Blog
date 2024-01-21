@@ -1,8 +1,8 @@
 ---
 title: 重启dptech防火墙
-tags: tag
-categories: categories
-excerpt: excerpt
+tags: 防火墙
+categories: 技术积累
+excerpt: 如何重启dptech防火墙
 date: 2023-05-12 17:15:33
 ---
 

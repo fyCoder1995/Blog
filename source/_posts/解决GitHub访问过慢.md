@@ -1,7 +1,7 @@
 ---
 title: 解决GitHub访问过慢
-tags: github
-categories: 工作
+tags: github访问
+categories: github
 date: 2021-07-16 10:55:59
 excerpt: 关于解决GitHub访问过慢
 ---

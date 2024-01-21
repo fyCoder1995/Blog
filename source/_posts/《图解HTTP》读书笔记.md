@@ -1,7 +1,7 @@
 ---
 title: 图解HTTP(未完成)
-tags: 读书笔记
-categories: 工作
+tags: 技术类书籍
+categories: 读书笔记
 excerpt: 《图解HTTP》摘录归纳
 date: 2023-03-06 15:55:26
 ---

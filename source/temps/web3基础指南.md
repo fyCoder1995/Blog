@@ -1,7 +1,7 @@
 ---
-title: web3基础指南
-tags: tag
-categories: categories
+title: Web3基础指南
+tags: Web3
+categories: Web3
 excerpt: excerpt
 date: 2023-05-10 11:00:10
 ---

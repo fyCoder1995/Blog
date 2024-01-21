@@ -1,7 +1,7 @@
 ---
 title: IE背景线性渐变
-tags: 兼容性
-categories: 工作
+tags: 语法糖
+categories: 技术积累
 excerpt: 关于IE背景线性渐变
 date: 2021-07-16 10:45:00
 ---
