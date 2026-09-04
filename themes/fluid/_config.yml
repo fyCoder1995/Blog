@@ -346,9 +346,14 @@ navbar:
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
-    - { key: "小工具",  icon: "iconfont icon-docker", submenu:
+    - { key: "小工具",  icon: "iconfont icon-clock-fill", submenu:
         [
-          {key: '数字时钟',link: '/HTML/clock.html'}
+          {key: '数字时钟',link: '/HTML/Clock/clock.html'}
+        ] 
+      }
+    - { key: "Demo",  icon: "iconfont icon-docker", submenu:
+        [
+          {key: '物联网粮仓',link: '/HTML/3D_Granary/index.html',target: _blank},
         ] 
       }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
