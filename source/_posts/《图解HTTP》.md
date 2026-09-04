@@ -1,8 +1,8 @@
 ---
-title: 图解HTTP(未完成)
-tags: 技术类书籍
+title: 图解HTTP
+tags: 网络 / 文字摘录 / 梳理框架
 categories: 读书笔记
-excerpt: 《图解HTTP》摘录归纳
+excerpt: 《图解HTTP》摘录归纳(未完成)
 date: 2023-03-06 15:55:26
 ---
 

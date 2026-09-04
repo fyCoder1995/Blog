@@ -1,7 +1,7 @@
 ---
-title: hexo+github简单部署
-tags: hexo+github
-categories: github
+title: Hexo + Github简单部署
+tags: GitHub / Hexo
+categories: 效率工具
 date: 2022-06-02 10:02:20
 ---
 

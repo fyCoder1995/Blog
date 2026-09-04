@@ -1,7 +1,7 @@
 ---
 title: TypeScript入门基础
 tags: TypeScript
-categories: TypeScript
+categories: 技术笔记
 excerpt: TypeScript是由微软开发的自由开源的编程语言。它是JavaScript的超集，而且本质上向这个语言添加了可选的静态类型和基于类的面向对象编程
 date: 2023-05-04 19:56:45
 ---

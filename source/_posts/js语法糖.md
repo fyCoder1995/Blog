@@ -1,7 +1,7 @@
 ---
-title: js语法糖
-tags: 语法糖
-categories: 技术积累
+title: JS语法糖
+tags: JavaScript
+categories: 技术笔记
 excerpt: 关于js语法糖
 date: 2021-07-13 17:00:55
 ---

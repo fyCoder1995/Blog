@@ -1,7 +1,7 @@
 ---
 title: TCP和UDP的区别
-tags: 经验
-categories: 技术积累
+tags: 网络
+categories: 技术笔记
 excerpt: 两者都是通信协议，TCP和UDP都是传输层协议，但是他们的通信机制和应用场景不同。
 date: 2024-07-15 11:32:57
 ---
