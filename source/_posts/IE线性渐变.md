@@ -1,6 +1,8 @@
 ---
 title: IE背景线性渐变
-tags: HTML / CSS
+tags: 
+- HTML
+- CSS
 categories: 技术笔记
 excerpt: 关于IE背景线性渐变
 date: 2021-07-16 10:45:00

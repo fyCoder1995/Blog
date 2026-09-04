@@ -66,6 +66,4 @@ HI[^注释]
 
     2. 有序列表
 
-&emsp;&emsp;缩进
-
 [超链接](www.baidu.com)
